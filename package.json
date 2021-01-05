@@ -11,7 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.16.1",
+    "axios": "^0.21.1",
     "color": "^1.0.3",
     "element-ui": "2.4.9",
     "font-awesome": "^4.7.0",
